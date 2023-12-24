@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cqvolv08yaf6a"
+path="res://.godot/imported/Arduino_Uno_R3_Elegoo_Lowpoly_SF.obj-6cc4a99a335e720bccc74343ce2e5197.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Arduino_Uno_R3_Elegoo_Lowpoly_SF.obj-6cc4a99a335e720bccc74343ce2e5197.mesh"]
+
+source_file="res://Models/01/source/Arduino_Uno_R3_Elegoo_Lowpoly_SF.obj"
+dest_files=["res://.godot/imported/Arduino_Uno_R3_Elegoo_Lowpoly_SF.obj-6cc4a99a335e720bccc74343ce2e5197.mesh", "res://.godot/imported/Arduino_Uno_R3_Elegoo_Lowpoly_SF.obj-6cc4a99a335e720bccc74343ce2e5197.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
