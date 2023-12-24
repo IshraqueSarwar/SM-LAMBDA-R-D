@@ -1,1 +1,0 @@
-# SM-LAMBDA-R-D
