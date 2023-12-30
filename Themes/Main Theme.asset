@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c40dd88f78f6e145b535b6ff4331adf, type: 3}
+  m_Name: Main Theme
+  m_EditorClassIdentifier: 
+  comment: {r: 0.5471698, g: 0.5285867, b: 0.5285867, a: 1}
+  loopKeyword: {r: 0.888, g: 0.21226507, b: 0, a: 1}
+  conditionKeyword: {r: 0.26099998, g: 0.5986379, b: 1, a: 1}
+  mathOperator: {r: 0.9339623, g: 0.82602096, b: 0.24142039, a: 1}
+  value: {r: 0, g: 0.9716981, b: 0.9460255, a: 1}
+  parentheses: {r: 1, g: 0.1642744, b: 0, a: 1}
+  curlyBrackets: {r: 1, g: 1, b: 1, a: 1}
+  comparisonOperator: {r: 1, g: 1, b: 1, a: 1}
+  assignment: {r: 1, g: 1, b: 1, a: 1}
+  variable: {r: 1, g: 1, b: 1, a: 1}
